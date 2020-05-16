@@ -5,7 +5,7 @@
 # Example
 
 ```typescript
-import * as validator from "./mod.ts";
+import * as validator from "https://deno.land/x/validator/mod.ts";
 
 const strEmpty: string = "";
 validator.isEmpty(strEmpty); // true

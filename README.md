@@ -7,12 +7,12 @@
 ```typescript
 import * as validator from "./mod.ts";
 
-const strEmpty: string = ""
-validator.isEmpty(strEmpty) // true
+const strEmpty: string = "";
+validator.isEmpty(strEmpty); // true
 
-const strBoolean: string = "true"
+const strBoolean: string = "true";
 validator.isBoolean(strBoolean) // true
 
-const strNumeric: string = "100"
-validator.isNumeric(strNumeric) // true
+const strNumeric: string = "100";
+validator.isNumeric(strNumeric); // true
 ```

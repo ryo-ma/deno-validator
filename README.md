@@ -4,7 +4,7 @@
 
 # Example
 
-```
+```typescript
 import * as validator from "./mod.ts";
 
 const strEmpty: string = ""

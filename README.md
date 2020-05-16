@@ -1,6 +1,6 @@
 # deno-validator
 
-🦕A simple string validation for deno
+🦕A simple string validation like [validator.js](https://github.com/validatorjs/validator.js) for deno
 
 # Example
 
